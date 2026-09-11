@@ -15,7 +15,7 @@
 
 ---
 
-## 📐 Diseño y Arquitectura del Sistema
+##  Diseño y Arquitectura del Sistema
 
 ### 1. Diagrama de Clases y Prototypes (UML)
 Estructura orientada a objetos y bocetos de interfaz diseñados para el control de datos de estudiantes:
@@ -30,7 +30,7 @@ Estructura orientada a objetos y bocetos de interfaz diseñados para el control 
 
 ---
 
-## 🖥️ Módulos del Sistema y Capturas
+##  Módulos del Sistema y Capturas
 
 ### 1. Formulario / Módulo Estudiante
 Interfaz desarrollada en Java Swing para la captura y gestión de información estudiantil.
