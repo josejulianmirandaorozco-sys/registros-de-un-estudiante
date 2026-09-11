@@ -35,4 +35,7 @@ Estructura orientada a objetos y bocetos de interfaz diseñados para el control 
 ### 1. Formulario / Módulo Estudiante
 Interfaz desarrollada en Java Swing para la captura y gestión de información estudiantil.
 
-[ARRASTRA_AQUÍ_LA_CAPTURA_DE_PANTALLA_DEL_SISTEMA]
+<img width="531" height="331" alt="image" src="https://github.com/user-attachments/assets/564b0b3d-1e1b-40fe-b7a8-416c8071629b" />
+
+
+
